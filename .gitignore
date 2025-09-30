@@ -1,0 +1,27 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Sistem operasi
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+.idea/
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Sistem operasi
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+.idea/
