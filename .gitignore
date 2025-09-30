@@ -7,21 +7,8 @@ __pycache__/
 __pycache__/
 *.pyc
 
-# Sistem operasi
+# System files
 .DS_Store
 Thumbs.db
 
-# Editor configs
-.vscode/
-.idea/
-# Python bytecode
-__pycache__/
-*.pyc
-
-# Sistem operasi
-.DS_Store
-Thumbs.db
-
-# Editor configs
-.vscode/
-.idea/
+# Data files to ignore
