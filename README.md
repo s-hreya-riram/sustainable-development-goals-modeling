@@ -18,7 +18,7 @@ SDG 10 (Reduced Inequalities): Analyzing differential returns across income leve
 
 * Under-5 mortality (response variable): https://ourworldindata.org/grapher/child-mortality
 * GDP per capita (input variable): https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD
-* Income Classification (input variable): https://databank.worldbank.org/data/download/site-content/OGHIST.xls
+* Income Classification (input variable): https://ourworldindata.org/grapher/world-bank-income-groups
 * Health expenditure (input variable): https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS
 * DPT3 immunization (input variable): https://data.worldbank.org/indicator/SH.IMM.IDPT
 * Population density (input variable): https://data.worldbank.org/indicator/EN.POP.DNST
