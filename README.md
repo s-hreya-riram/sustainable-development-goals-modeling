@@ -14,15 +14,16 @@ achieving the SDG 3.2 targets in different development contexts.
 
 ## Hypothesis
 
-H₀ (Null): The relationship between GDP per capita and under-5 mortality is uniform across all development levels. Economic development yields consistent child health returns regardless of a country's income classification. 
-H₁ (Alternate): Low-income countries experience significantly larger reductions in under-5 mortality per unit increase
-in GDP per capita compared to high-income countries (β ≠ 0), reflecting differential
-returns to economic development across income levels.
+H₀ (Null): The relationship between GDP per capita and under-5 mortality is uniform across all development levels.Economic development yields consistent child health returns regardless of a country's income classification. 
+
+H₁ (Alternate): Low-income countries experience significantly larger reductions in under-5 mortality per unit increase in GDP per capita compared to high-income countries (β ≠ 0), reflecting differential returns to economic development across income levels.
 
 ## SDGs Addressed
 
 SDG 3 (Good Health and Well-being): Target 3.2 - End preventable deaths of children under 5 
+
 SDG 8 (Decent Work and Economic Growth): Examining economic development's health impacts 
+
 SDG 10 (Reduced Inequalities): Analyzing differential returns across income levels 
 
 
@@ -35,10 +36,6 @@ SDG 10 (Reduced Inequalities): Analyzing differential returns across income leve
 * DPT3 immunization (input variable): https://data.worldbank.org/indicator/SH.IMM.IDPT
 * Population density (input variable): https://data.worldbank.org/indicator/EN.POP.DNST
 * Access to safely managed drinking water services (input variable) : https://data.worldbank.org/indicator/SH.H2O.SMDW.ZS
-
-## Motivation behind the problem statement
-
-Child mortality is a key measure of development and health system effectiveness, targeted by SDG 3.2. While wealthier countries generally have lower child mortality rates (the Preston Curve), we want to understand whether the strength of this relationship varies by development level. In low-income countries, additional income can fund basic, high-impact interventions like vaccines, clean water, and nutrition programs. In contrast, high-income countries have already addressed these preventable causes of death, so further economic growth yields smaller health gains. By testing this hypothesis across 80 countries, we can provide evidence on the factors that could contribute the best for achieving SDG 3.2 targets in different development contexts.
 
 
 ## Technical Implementation
@@ -69,8 +66,6 @@ Child mortality is a key measure of development and health system effectiveness,
 - Comprehensive Jupyter notebooks with step-by-step explanations
 - Reproducible research workflow
 - Detailed comments and markdown explanations
-
----
 
 ## Getting Started
 
@@ -117,8 +112,6 @@ jupyter_notebooks/                  # Complete analysis pipeline
 2. `merging_all_datasets.ipynb` - Create unified panel data
 3. `exploratory_data_analysis.ipynb` - Clean and transform variables
 4. `modeling.ipynb` - Run models and diagnostics
-
-*All notebooks include detailed explanations, diagnostic checks, and interpretation guidance.*
 
 ## Citation
 
