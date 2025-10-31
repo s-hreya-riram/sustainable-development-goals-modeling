@@ -127,3 +127,5 @@ If you use this analysis or code, please cite:
 Shreya Sriram (2025). Economic Development and Under-5 Mortality Analysis. 
 GitHub repository: https://github.com/s-hreya-riram/sustainable-development-goals-modeling
 ```
+
+Note: The figure 'Countries by Income Classification.jpg' under data/report_figures referenced in the pdf of the report was generated using GIS code authored by Chen Ke Yuan Kowin, not included in the main repository.
