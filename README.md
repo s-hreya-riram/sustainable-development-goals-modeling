@@ -121,4 +121,4 @@ Shreya Sriram (2025). Economic Development and Under-5 Mortality Analysis.
 GitHub repository: https://github.com/s-hreya-riram/sustainable-development-goals-modeling
 ```
 
-Note: The figure 'Countries by Income Classification.jpg' under data/report_figures referenced in the pdf of the report was generated using GIS code authored by Chen Ke Yuan Kowin, not included in the main repository.
+Note: The figure 'Countries by Income Classification.jpg' under data/report_figures referenced in the pdf of the report was created by Chen Ke Yuan Kowin using the dataset in Excel and refined in QGIS and is not part of the Git repository
